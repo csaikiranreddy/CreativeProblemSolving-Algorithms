@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1419947875 source:c:\users\sandeep\desktop\lineardatastructures\linkedlistnode.c
+	"LinkedListNode.h"
+	<stdlib.h>
+	<assert.h>
+
+1419949224 c:\users\sandeep\desktop\lineardatastructures\linkedlistnode.h
+
+1419949269 source:c:\users\sandeep\desktop\lineardatastructures\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Stack.h"
+	"Queue.h"
+
+1419947126 c:\users\sandeep\desktop\lineardatastructures\stack.h
+	"LinkedListNode.h"
+	<stdbool.h>
+
+1419948185 c:\users\sandeep\desktop\lineardatastructures\queue.h
+	"LinkedListNode.h"
+	<stdbool.h>
+
+1419948784 source:c:\users\sandeep\desktop\lineardatastructures\queue.c
+	"Queue.h"
+	<stdlib.h>
+	<assert.h>
+
+1419949080 source:c:\users\sandeep\desktop\lineardatastructures\stack.c
+	"Stack.h"
+	<stdlib.h>
+	<assert.h>
+

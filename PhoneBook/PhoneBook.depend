@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1424159378 source:c:\users\sandeep\desktop\phonebook\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Contact.h"
+
+1424159118 source:c:\users\sandeep\desktop\phonebook\contact.c
+	<stdlib.h>
+	"Contact.h"
+	<string.h>
+	<stdio.h>
+
+1424158116 c:\users\sandeep\desktop\phonebook\contact.h
+
